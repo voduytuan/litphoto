@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<lines name="head_list" descr=""><![CDATA[Photo Category]]></lines>
+	<lines name="title_list" descr=""><![CDATA[Categories]]></lines>
+	<lines name="pageTitle_list" descr=""><![CDATA[Photo Category &raquo; Listing]]></lines>
+	<lines name="title_subcat" descr=""><![CDATA[Sub categories]]></lines>
+	
+
+	<lines name="head_add" descr=""><![CDATA[Add New Category]]></lines>
+	<lines name="head_addsub" descr=""><![CDATA[Add Sub-Category]]></lines>
+	<lines name="title_add" descr=""><![CDATA[Category Information]]></lines>
+	<lines name="pageTitle_add" descr=""><![CDATA[Photo Category &raquo; Add Category]]></lines>
+
+	<lines name="head_edit" descr=""><![CDATA[Update Category]]></lines>
+	<lines name="title_edit" descr=""><![CDATA[Category Information]]></lines>
+	<lines name="pageTitle_edit" descr=""><![CDATA[Photo Category &raquo; Update]]></lines>
+
+
+	<lines name="formTitleLabel" descr=""><![CDATA[Title]]></lines>
+	<lines name="formParentLabel" descr=""><![CDATA[Parent Category]]></lines>
+	<lines name="formShowLabel" descr=""><![CDATA[Show]]></lines>
+	<lines name="formDateModifiedLabel" descr=""><![CDATA[Date Updated]]></lines>
+
+	<lines name="errTitleRequired" descr=""><![CDATA[Category Title is required.]]></lines>
+	<lines name="errAdd" descr=""><![CDATA[Error while Add Category]]></lines>
+	<lines name="succAdd" descr=""><![CDATA[Category <strong>###categorytitle###</strong> had been created.]]></lines>
+	<lines name="errUpdate" descr=""><![CDATA[Error while updating Category]]></lines>
+	<lines name="succUpdate" descr=""><![CDATA[Category <strong>###categorytitle###</strong> had been updated.]]></lines>
+
+	<lines name="errNotFound" descr=""><![CDATA[Category not found.]]></lines>
+	<lines name="errDelete" descr=""><![CDATA[Error while deleting category <strong>###categorytitle###</strong>.]]></lines>
+	<lines name="succDelete" descr=""><![CDATA[Category <strong>###categorytitle###</strong> had been deleted.]]></lines>
+	
+	
+	
+	
+</data>

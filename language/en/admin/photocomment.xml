@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+		<lines name="head_list" descr=""><![CDATA[Photo Comment]]></lines>
+		<lines name="title_list" descr=""><![CDATA[Comments]]></lines>
+		<lines name="title_listSearch" descr=""><![CDATA[Search result]]></lines>
+		<lines name="pageTitle_list" descr=""><![CDATA[Comments &raquo; Listing]]></lines>
+	
+		<lines name="head_edit" descr=""><![CDATA[Comment Edit]]></lines>
+		<lines name="title_edit" descr=""><![CDATA[Comment information]]></lines>
+		<lines name="pageTitle_edit" descr=""><![CDATA[Comment &raquo; Edit]]></lines>
+
+		<lines name="errEdit" descr=""><![CDATA[Edit Error.]]></lines>
+		<lines name="succEdit" descr=""><![CDATA[Comment was updated.]]></lines>
+		
+		<lines name="errNotFound" descr=""><![CDATA[Comment not found.]]></lines>
+		<lines name="errDelete" descr=""><![CDATA[Delete Error.]]></lines>
+		<lines name="succDelete" descr=""><![CDATA[Comment was deleted.]]></lines>
+	
+	
+	
+</data>

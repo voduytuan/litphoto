@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+		<lines name="head_list" descr=""><![CDATA[Photo Management]]></lines>
+		<lines name="title_list" descr=""><![CDATA[Photo List]]></lines>
+		<lines name="title_listSearch" descr=""><![CDATA[Search Result]]></lines>
+		<lines name="pageTitle_list" descr=""><![CDATA[Photo &raquo; Photo List]]></lines>
+	
+		<lines name="head_add" descr=""><![CDATA[Upload New Photo]]></lines>
+		<lines name="title_add" descr=""><![CDATA[Photo Information]]></lines>
+		<lines name="pageTitle_add" descr=""><![CDATA[Photo &raquo; Upload]]></lines>
+	
+		<lines name="head_edit" descr=""><![CDATA[Update Photo]]></lines>
+		<lines name="title_edit" descr=""><![CDATA[Photo Information]]></lines>
+		<lines name="pageTitle_edit" descr=""><![CDATA[Photo &raquo; Edit]]></lines>
+
+		<lines name="errTitleRequired" descr=""><![CDATA[Title is required]]></lines>
+		<lines name="errFileRequired" descr=""><![CDATA[File Upload is required.]]></lines>
+		<lines name="errFileTypeNotValid" descr=""><![CDATA[File Type is not valid. (Allow: JPG, GIF, PNG)]]></lines>
+		<lines name="errFileSizeNotValid" descr=""><![CDATA[Image is too big. (Max: 10M)]]></lines>
+
+		<lines name="errAdd" descr=""><![CDATA[Error while uploading photo]]></lines>
+		<lines name="succAdd" descr=""><![CDATA[Photo had been uploaded.]]></lines>
+		<lines name="errEdit" descr=""><![CDATA[Error while uploading your photo]]></lines>
+		<lines name="succEdit" descr=""><![CDATA[Photo information had been updated.]]></lines>
+		
+		<lines name="errNotFound" descr=""><![CDATA[Photo not found.]]></lines>
+		<lines name="errDelete" descr=""><![CDATA[Error while deleting selected photo.]]></lines>
+		<lines name="succDelete" descr=""><![CDATA[Photo had been deleted.]]></lines>
+	
+	
+	
+</data>

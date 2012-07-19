@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+	<lines name="errCommentFullname" descr=""><![CDATA[Please input your Full name.]]></lines>
+	<lines name="errCommentEmail" descr=""><![CDATA[Your email is invalid.]]></lines>
+	<lines name="errCommentText" descr=""><![CDATA[Comment is required.]]></lines>
+	<lines name="errSecurityCode" descr=""><![CDATA[Security code is not correct.]]></lines>
+	<lines name="succCommentAdd" descr=""><![CDATA[Your comment had been saved and waited for moderating from Administrator.]]></lines>
+	<lines name="errCommentAdd" descr=""><![CDATA[Error while saving your comment.]]></lines>
+	
+	<lines name="pageTitle" descr=""><![CDATA[A Simple Photo Blog]]></lines>
+	<lines name="pageKeyword" descr=""><![CDATA[Photo, litpi, litphoto, photo blog, free photo blog]]></lines>
+	<lines name="pageDescription" descr=""><![CDATA[Litphoto is an open source photoblog written in PHP and MySQL. Litphoto based on Litpi framework - a lightweight PHP Framework.]]></lines>
+
+</data>
